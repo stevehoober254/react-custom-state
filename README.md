@@ -7,7 +7,7 @@ Authentication is one of the parts you might have to deal with when building fro
 * Clone the project
 
 ````bash
-   git clone has
+   git clone https://github.com/stevehoober254/react-custom-state.git
 ````
 
 * Install dependencies
